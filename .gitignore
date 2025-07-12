@@ -1,0 +1,4 @@
+#ignore 
+*.cmake
+CMakeFiles
+CMakeCache.txt
